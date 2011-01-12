@@ -8,11 +8,9 @@
 #=============================================#
 
 
-use tCAD::PowerParser;
 use tCAD::VeriParser;
 use tCAD::util;
 use tCAD::GRAPH;
-use tCAD::ISORuleChk;
 
 use strict;
 use Data::Dumper;
