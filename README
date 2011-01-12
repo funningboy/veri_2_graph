@@ -1,0 +1,7 @@
+
+#==================================
+# @ gate level verilog graph viewer
+#==================================
+
+perl main.pl
+dot -Tpng T10.dot > T10.png
